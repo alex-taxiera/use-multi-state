@@ -1,0 +1,30 @@
+{
+  "name": "use-multi-state",
+  "version": "1.0.0",
+  "description": "A React Hook to simplify complex states.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-taxiera/use-multi-state.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "state"
+  ],
+  "author": "Alex Taxiera",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/alex-taxiera/use-multi-state/issues"
+  },
+  "homepage": "https://github.com/alex-taxiera/use-multi-state#readme",
+  "peerDependencies": {
+    "react": "^16.8.3"
+  },
+  "files": [
+    "src/"
+  ]
+}
